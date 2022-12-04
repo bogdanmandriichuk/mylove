@@ -83,3 +83,6 @@
 	background: rgb(238,174,202);
 background: radial-gradient(circle, rgba(219, 174, 238, 0.784) 0%, rgba(169, 240, 246, 0.727) 100%);
   }
+.hiddden_text {
+	color: transparent;
+}
